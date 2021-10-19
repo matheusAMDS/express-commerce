@@ -2,7 +2,7 @@
   <div class="container mx-auto flex justify-between items-center">
     <a href="/">
       <h1 class="text-3xl font-semibold border p-1 rounded border-black border-4">
-        TheCoolKid
+        Express
       </h1>
     </a>  
     <nav class="list-none flex justify-between">
