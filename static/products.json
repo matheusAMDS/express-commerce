@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": "ifoe9j20fj02fi09ef029m",
+      "name": "Camisa Salmão",
+      "category": "Roupas",
+      "image": "camisa_salmao.jpg",
+      "quantity": 34,
+      "mean_price": 57.90
+    },
+    {
+      "id": "jiomhueifua8ef90af9e0a",
+      "name": "Camisa Azul-Claro",
+      "category": "Roupas",
+      "image": "camisa_azul.jpg",
+      "quantity": 29,
+      "mean_price": 52.90
+    },
+    {
+      "id": "oinaoxuuebueiueihuaofi",
+      "name": "Cama box King-size",
+      "category": "Mobília",
+      "image": "cama_box_king_size.jpg",
+      "quantity": 15,
+      "mean_price": 1280.90
+    },
+    { 
+      "id": "bocnieoa8hiofeioagioeg",
+      "name": "Sofá",
+      "category": "Mobília",
+      "image": "sofá.jpg",
+      "quantity": 12,
+      "mean_price": 1500.00
+    }
+  ]
+}

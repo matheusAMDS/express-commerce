@@ -1,3 +1,7 @@
+<script context="module">
+  import { dev } from "$app/env"
 
-<h1>Welcome to SvelteKit</h1>
-<p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
+  export function load() {
+    return { redirect: '/products', status: dev ? 302 : 301 }
+  }
+</script>
